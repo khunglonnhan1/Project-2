@@ -111,7 +111,7 @@ a {
   margin-right: 70px;
 }
 
-.header .list .item {
+.header .list a {
   color: #5f5b53;
   font-size: 1.6rem;
   font-weight: 400;
